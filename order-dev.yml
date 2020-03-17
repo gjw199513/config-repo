@@ -14,5 +14,5 @@ eureka:
       defaultZone: http://localhost:8761/eureka/
 env: dev
 girl:
-  name: 126767
+  name: 1267671212
   age: 182

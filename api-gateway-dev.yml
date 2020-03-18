@@ -1,5 +1,6 @@
 # 自定义路由
 zuul:
+  sensitive-headers:
   routes:
     # /myProduct/Product/list -> /product/product/list
     aaaa:
